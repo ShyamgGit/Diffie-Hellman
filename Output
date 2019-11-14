@@ -1,0 +1,10 @@
+Enter a prime number:
+21
+Enter primitive root of 21:
+3
+Choose 1st secret no:
+8
+Choose 2nd secret no:
+9
+Both can communicate with each other!!!
+They share a secret no = 15
